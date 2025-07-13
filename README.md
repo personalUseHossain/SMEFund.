@@ -1,10 +1,10 @@
-# [Business Funding Platform](https://smefund.co.uk)
+# [SMEFund](https://smefund.co.uk)
 ![Dashboard Preview](https://raw.githubusercontent.com/personalUseHossain/SMEFund./refs/heads/main/SMEFund.png)
 
-The **Business Funding Platform** is a digital solution designed to streamline the process of managing business investments, funding applications, profit repayment, and KYC verification. It features dedicated modules for business users and platform administrators to ensure a smooth, secure, and transparent funding experience.
+The **SMEFund** is a digital solution designed to streamline the process of managing business investments, funding applications, profit repayment, and KYC verification. It features dedicated modules for business users and platform administrators to ensure a smooth, secure, and transparent funding experience.
 
 ## Live Demo
-Check out the live version of the app: [Business Funding Platform](https://smefund.co.uk)
+Check out the live version of the app: [SMEFund](https://smefund.co.uk)
 
 ## Features
 
